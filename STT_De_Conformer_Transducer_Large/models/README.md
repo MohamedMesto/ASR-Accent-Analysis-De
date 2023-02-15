@@ -6,12 +6,12 @@ This collection contains large size versions of Conformer-Transducer (around 120
 
 Conformer-Transducer model is an autoregressive variant of Conformer model [1] for Automatic Speech Recognition which uses Transducer loss/decoding. You may find more info on the detail of this model here: Conformer-Transducer Model.
 
-# Training
+## Training
 The NeMo toolkit [3] was used for training the models. These models are fine-tuned with this example script and this base config.
 
 The tokenizers for these models were built using the text transcripts of the train set with this script.
 
-# Datasets
+## Datasets
 
 All the models in this collection are trained on a composite dataset (NeMo ASRSET) comprising of over two thousand hours of cleaned German speech:
 
