@@ -8,3 +8,5 @@ According to a given word or utterance, this code shows and writes in which Audi
 All Experimentsation are in the file  [AttributionAnalysis-De.ipynb](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/AttributionAnalysis_De.ipynb)
 
 
+Note:
+files with _NB are to run on your Notebook /offline
