@@ -15,5 +15,8 @@
 ## Bar Diagrams of Duration's Accent accordings to Age Groups
 ![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagramsAccent_age.png)
 
+## Bar Diagrams of Duration's WER accordings to Accent Groups
+![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagrams_Accent_WER.png)
+
 
 
