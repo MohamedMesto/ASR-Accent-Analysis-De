@@ -18,8 +18,8 @@
 ## Bar Diagrams of WER accordings to Accent Groups
 ![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagrams_Accent_WER.png)
 
-## Bar Diagrams of WER accordings to gender Groups
+## Bar Diagrams of WER accordings to Gender Groups
 ![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagrams_Accent_WER_gender.png)
 
-## Bar Diagrams of WER accordings to age Groups
+## Bar Diagrams of WER accordings to Age Groups
 ![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagramsAccent_WER_age.png)
