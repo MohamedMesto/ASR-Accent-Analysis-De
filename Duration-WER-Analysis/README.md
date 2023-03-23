@@ -19,6 +19,8 @@
 ![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagrams_Accent_WER.png)
 
 ## Bar Diagrams of WER accordings to gender Groups
+![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagrams_Accent_WER_gender.png)
+
+## Bar Diagrams of WER accordings to gender Groups
 ![](https://github.com/MohamedMesto/ASR-Accent-Analysis-De/blob/main/Duration-WER-Analysis/BarCharts/plotBarDiagrams_Accent_WER_gender.png
 )
-
