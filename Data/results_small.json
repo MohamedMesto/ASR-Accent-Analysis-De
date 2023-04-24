@@ -1,0 +1,23 @@
+{
+  "test_at.txt": { 
+    "/ds/audio/CommonVoiceCorpus10.0/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30676740.mp3": {
+      "reference": "gerschler wurde von seinen großeltern und einer tante erzogen",
+      "hypothesis": "gerschler wurde von seinen großeltern und einer tante erzogen",
+      "wer": 0.0
+    }
+  },
+  "test_de.txt": {
+    "/ds/audio/CommonVoiceCorpus10.0/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_27916918.mp3": {
+      "reference": "unter anderem war da der schatten von carl nielsen dem großen dänischen komponisten",
+      "hypothesis": "unter anderem war da der schatten von karl nilsson dem großen dänischen komponisten",
+      "wer": 0.15384615384615385
+    }
+},
+  "test_ch.txt": {
+    "/ds/audio/CommonVoiceCorpus10.0/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_28897371.mp3": {
+      "reference": "der reichssender münchen gehörte damit dem großdeutschen rundfunk an",
+      "hypothesis": "der reichssender münchen gehörte damit dem großdeutschen rundfunk an",
+      "wer": 0.0
+        }
+    }
+  }
