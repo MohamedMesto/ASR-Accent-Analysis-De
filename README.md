@@ -9,4 +9,4 @@ All Experimentsation are in the file  [AttributionAnalysis-De.ipynb](https://git
 
 
 Note:
-files with _NB are to run on your Notebook /offline
+files with _NB are recommended to run on your Notebook/ local machine
