@@ -84,11 +84,9 @@ class ASRTranscription:
             enc_out = asr_model.encoder(audio_signal=processed, length=processed_len)[0].detach().cpu()
             #####
  
-            dec_out = asr_model.decoder( encoder_output=enc_out) 
-        # self.store_output(enc_out, last_dumpdir)
-        print('# ', '*'*30 ,'dec_out)', dec_out)
-        print('# ', '*'*30 ,'dec_out.shape)', dec_out.shape)
-        # self.store_output(dec_out, last_dumpdir)
+            # dec_out = asr_model.decoder( encoder_output=enc_out) 
+        self.store_output(enc_out, last_dumpdir)
+ 
          
         print("below are the encoder output")
         print(self.enc_output)
@@ -121,11 +119,7 @@ class ASRTranscription:
         out_forward = self.out.float().requires_grad_()
         print(out_forward)
 
-        print("below are the dec_out")
-        global dec_out_forward
-        dec_out_forward = self.dec_out.float().requires_grad_()
-        print(dec_out_forward)
-        # print('# ','*'*30,model.decoder.register_forward_hook)
+ 
 
 
 
