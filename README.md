@@ -9,4 +9,5 @@ Accented speech Recognition  (ASR) Accent Analysis for German Accents
 Note:
 files with _NB are recommended to run on your Notebook/ local machine
 
-<li><a href="https://github.com/MohamedMesto/MasterThesis-Comparative-Analysis-of-OS-5G-Core-Implementations-Design-and-Evaluation-of-5G-Testbed">MasterThesis-Comparative-Analysis-of-OS-5G-Core-Implementations-Design-and-Evaluation-of-5G-Testbed</a> : " Comparative Analysis of Open Source 5G Core Implementations and Design and Evaluation of a 5G Testbed for Industrial Communication Master’s Thesis shortened Draft"</li>
+
+<li><a href="https://github.com/MohamedMesto/MasterThesis-QU-DFKI-Accented-Speech-Recognition-ASR"> MasterThesis-QU-DFKI-Accented-Speech-Recognition-AccSR</a>: "Master Thesis in Accented Speech Recognition AccSR"</li>
